@@ -1,0 +1,65 @@
+
+ÁLBUM DE ESPECTROGRAMAS DEL CASTELLANO CHILENO
+
+1. Introducción (i.e., ¿qué es un álbum de espectrogramas?)
+  - Declaración de propósito: más pedagógico que científicamente exhaustivo
+  - Algunas asunciones: 
+    - ¿?
+  - Algunas limitaciones:
+    - No incluye todo
+    - Algunas cosas no son tan visibles espectrográficamente (se necesitan otras herramientas)
+
+2. Espectrografía
+  - Fundamentos mínimos de física acústica
+  - ¿Qué es un espectro?
+  - Espectrografía:
+    - Representación del dominio del tiempo
+    - Representación del dominio de la frecuencia
+    - Representación del dominio de la intensidad
+
+3. El sistema fonético y fonológico del castellano chileno
+  - Introducción a fonética articulatoria (rasgos)
+  - Consonantes vs. vocales
+  - Coarticulación
+  - El sistema fonético-fonológico del castellano chileno
+  - El sistema que se abordará acá
+  - Síntesis de la relación entre alófonos y fonemas
+
+4. (Espectrogramas de) Consonantes
+  - Consonantes oclusivas
+    - Introducción a la espectrografía del modo oclusivo
+    - Secuencia: ... 
+  - Consonantes fricativas
+    - Introducción a la espectrografía del modo fricativo
+    - Secuencia: ... 
+  - Consonantes africadas
+    - Introducción a la espectrografía del modo africado
+    - Secuencia: ... 
+  - Consonantes nasales
+    - Introducción a la espectrografía del modo nasal
+    - Secuencia: ... 
+  - Consonantes laterales
+    - Introducción a la espectrografía del modo lateral
+    - Secuencia: ... 
+  - Consonantes róticas o vibrantes
+    - Introducción a la espectrografía del modo rótico o vibrante
+    - Secuencia: ... 
+  - Consonantes aproximantes
+    - Introducción a la espectrografía del modo aproximante
+    - Secuencia: ... 
+
+5. (Espectrogramas de) Vocales
+  - Introducción a la espectrografía de vocales
+  - Vocales nucleares.
+  - Vocales no silábicas.
+  - Otras vocales:
+    - Variación por acento léxico
+    - Variación por posición en la sílaba
+    - Variación por posición en enunciado (ensordecimiento)
+    - Alargamiento vocálico (pragmático)
+    - Alargamiento vocálico (identitario)
+    - Adelantamiento de vocales
+    - Posteriorización de vocales
+    - Centralización de vocales
+    - Diptongación (desilabificación) de vocales
+    - Vocales esvarabáticas (epéntesis fonética)
