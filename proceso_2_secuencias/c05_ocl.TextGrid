@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.5502967570735677 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "seg" 
+        xmin = 0 
+        xmax = 0.5502967570735677 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05000000000001137 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05000000000001137 
+            xmax = 0.1447742500051845 
+            text = "[k]" 
+        intervals [3]:
+            xmin = 0.1447742500051845 
+            xmax = 0.24846015782526365 
+            text = "" 
+        intervals [4]:
+            xmin = 0.24846015782526365 
+            xmax = 0.33358286148808247 
+            text = "[k]" 
+        intervals [5]:
+            xmin = 0.33358286148808247 
+            xmax = 0.5002967570735564 
+            text = "" 
+        intervals [6]:
+            xmin = 0.5002967570735564 
+            xmax = 0.5502967570735677 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ft" 
+        xmin = 0 
+        xmax = 0.5502967570735677 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05000000000001137 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05000000000001137 
+            xmax = 0.5002967570735564 
+            text = "[ˈka.ka]" 
+        intervals [3]:
+            xmin = 0.5002967570735564 
+            xmax = 0.5502967570735677 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "fl" 
+        xmin = 0 
+        xmax = 0.5502967570735677 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05000000000001137 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05000000000001137 
+            xmax = 0.5002967570735564 
+            text = "/ˈka.ka/" 
+        intervals [3]:
+            xmin = 0.5002967570735564 
+            xmax = 0.5502967570735677 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "sec" 
+        xmin = 0 
+        xmax = 0.5502967570735677 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5502967570735677 
+            text = "c05" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "tipo" 
+        xmin = 0 
+        xmax = 0.5502967570735677 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5502967570735677 
+            text = "ocl" 
