@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.0317238284133055 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "seg" 
+        xmin = 0 
+        xmax = 1.0317238284133055 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0500000000001819 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0500000000001819 
+            xmax = 0.19412589420699078 
+            text = "" 
+        intervals [3]:
+            xmin = 0.19412589420699078 
+            xmax = 0.2834384068628424 
+            text = "[f]" 
+        intervals [4]:
+            xmin = 0.2834384068628424 
+            xmax = 0.3748606639119316 
+            text = "" 
+        intervals [5]:
+            xmin = 0.3748606639119316 
+            xmax = 0.4690959134854893 
+            text = "[x]" 
+        intervals [6]:
+            xmin = 0.4690959134854893 
+            xmax = 0.5506726966982569 
+            text = "" 
+        intervals [7]:
+            xmin = 0.5506726966982569 
+            xmax = 0.6660053902064647 
+            text = "[s]" 
+        intervals [8]:
+            xmin = 0.6660053902064647 
+            xmax = 0.9817238284131236 
+            text = "" 
+        intervals [9]:
+            xmin = 0.9817238284131236 
+            xmax = 1.0317238284133055 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ft" 
+        xmin = 0 
+        xmax = 1.0317238284133055 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0500000000001819 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0500000000001819 
+            xmax = 0.9817238284131236 
+            text = "[la.ˈfa.xa.ˈswa.ʋe]" 
+        intervals [3]:
+            xmin = 0.9817238284131236 
+            xmax = 1.0317238284133055 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "fl" 
+        xmin = 0 
+        xmax = 1.0317238284133055 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0500000000001819 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0500000000001819 
+            xmax = 0.9817238284131236 
+            text = "/la ˈfa.xa ˈsua.be/" 
+        intervals [3]:
+            xmin = 0.9817238284131236 
+            xmax = 1.0317238284133055 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "sec" 
+        xmin = 0 
+        xmax = 1.0317238284133055 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0317238284133055 
+            text = "s2" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "tipo" 
+        xmin = 0 
+        xmax = 1.0317238284133055 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0317238284133055 
+            text = "sec" 
