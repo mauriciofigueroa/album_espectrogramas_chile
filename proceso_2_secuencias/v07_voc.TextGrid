@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.6802081584344819 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "seg" 
+        xmin = 0 
+        xmax = 0.6802081584344819 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05000000000001137 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05000000000001137 
+            xmax = 0.1576089258463469 
+            text = "" 
+        intervals [3]:
+            xmin = 0.1576089258463469 
+            xmax = 0.2145304910705761 
+            text = "[w]" 
+        intervals [4]:
+            xmin = 0.2145304910705761 
+            xmax = 0.6302081584344705 
+            text = "" 
+        intervals [5]:
+            xmin = 0.6302081584344705 
+            xmax = 0.6802081584344819 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ft" 
+        xmin = 0 
+        xmax = 0.6802081584344819 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05000000000001137 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05000000000001137 
+            xmax = 0.6302081584344705 
+            text = "[ˈpwer.t̪o]" 
+        intervals [3]:
+            xmin = 0.6302081584344705 
+            xmax = 0.6802081584344819 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "fl" 
+        xmin = 0 
+        xmax = 0.6802081584344819 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05000000000001137 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05000000000001137 
+            xmax = 0.6302081584344705 
+            text = "/ˈpuer.t̪o/" 
+        intervals [3]:
+            xmin = 0.6302081584344705 
+            xmax = 0.6802081584344819 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "sec" 
+        xmin = 0 
+        xmax = 0.6802081584344819 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6802081584344819 
+            text = "v07" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "tipo" 
+        xmin = 0 
+        xmax = 0.6802081584344819 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6802081584344819 
+            text = "voc" 

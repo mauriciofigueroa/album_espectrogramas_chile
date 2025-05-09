@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.0862581503447473 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "seg" 
+        xmin = 0 
+        xmax = 1.0862581503447473 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0500000000001819 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0500000000001819 
+            xmax = 0.2896575922518423 
+            text = "" 
+        intervals [3]:
+            xmin = 0.2896575922518423 
+            xmax = 0.3387886285886452 
+            text = "[ð̞]" 
+        intervals [4]:
+            xmin = 0.3387886285886452 
+            xmax = 0.4578941712238702 
+            text = "" 
+        intervals [5]:
+            xmin = 0.4578941712238702 
+            xmax = 0.49585906293896187 
+            text = "[ɣ̞]" 
+        intervals [6]:
+            xmin = 0.49585906293896187 
+            xmax = 0.5829549909908565 
+            text = "" 
+        intervals [7]:
+            xmin = 0.5829549909908565 
+            xmax = 0.618686653781424 
+            text = "[ʋ]" 
+        intervals [8]:
+            xmin = 0.618686653781424 
+            xmax = 1.0362581503445654 
+            text = "" 
+        intervals [9]:
+            xmin = 1.0362581503445654 
+            xmax = 1.0862581503447473 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ft" 
+        xmin = 0 
+        xmax = 1.0862581503447473 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0500000000001819 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0500000000001819 
+            xmax = 1.0362581503445654 
+            text = "[bo.ˈð̞e.ɣ̞a.ʋa.ˈsi.a]" 
+        intervals [3]:
+            xmin = 1.0362581503445654 
+            xmax = 1.0862581503447473 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "fl" 
+        xmin = 0 
+        xmax = 1.0862581503447473 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0500000000001819 
+            text = "" 
+        intervals [2]:
+            xmin = 0.0500000000001819 
+            xmax = 1.0362581503445654 
+            text = "/bo.ˈd̪e.ga ba.ˈsi.a/" 
+        intervals [3]:
+            xmin = 1.0362581503445654 
+            xmax = 1.0862581503447473 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "sec" 
+        xmin = 0 
+        xmax = 1.0862581503447473 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0862581503447473 
+            text = "s7" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "tipo" 
+        xmin = 0 
+        xmax = 1.0862581503447473 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0862581503447473 
+            text = "sec" 

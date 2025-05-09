@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.6000000000000001 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "seg" 
+        xmin = 0 
+        xmax = 0.6000000000000001 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04999999999999999 
+            text = "" 
+        intervals [2]:
+            xmin = 0.04999999999999999 
+            xmax = 0.55 
+            text = "{V}" 
+        intervals [3]:
+            xmin = 0.55 
+            xmax = 0.6000000000000001 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ft" 
+        xmin = 0 
+        xmax = 0.6000000000000001 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04999999999999999 
+            text = "" 
+        intervals [2]:
+            xmin = 0.04999999999999999 
+            xmax = 0.55 
+            text = "[a]" 
+        intervals [3]:
+            xmin = 0.55 
+            xmax = 0.6000000000000001 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "fl" 
+        xmin = 0 
+        xmax = 0.6000000000000001 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04999999999999999 
+            text = "" 
+        intervals [2]:
+            xmin = 0.04999999999999999 
+            xmax = 0.55 
+            text = "/a/" 
+        intervals [3]:
+            xmin = 0.55 
+            xmax = 0.6000000000000001 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "sec" 
+        xmin = 0 
+        xmax = 0.6000000000000001 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6000000000000001 
+            text = "f01" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "tipo" 
+        xmin = 0 
+        xmax = 0.6000000000000001 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6000000000000001 
+            text = "V" 
