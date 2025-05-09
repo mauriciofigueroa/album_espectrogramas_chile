@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.5623712482308747 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "seg" 
+        xmin = 0 
+        xmax = 0.5623712482308747 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.049999999999954525 
+            text = "" 
+        intervals [2]:
+            xmin = 0.049999999999954525 
+            xmax = 0.16994567945721428 
+            text = "" 
+        intervals [3]:
+            xmin = 0.16994567945721428 
+            xmax = 0.2574866793838737 
+            text = "[n̪̟]" 
+        intervals [4]:
+            xmin = 0.2574866793838737 
+            xmax = 0.5123712482309202 
+            text = "" 
+        intervals [5]:
+            xmin = 0.5123712482309202 
+            xmax = 0.5623712482308747 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "ft" 
+        xmin = 0 
+        xmax = 0.5623712482308747 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.049999999999954525 
+            text = "" 
+        intervals [2]:
+            xmin = 0.049999999999954525 
+            xmax = 0.5123712482309202 
+            text = "[ˈ\^?an̪̟.θ̟a]" 
+        intervals [3]:
+            xmin = 0.5123712482309202 
+            xmax = 0.5623712482308747 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "fl" 
+        xmin = 0 
+        xmax = 0.5623712482308747 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.049999999999954525 
+            text = "" 
+        intervals [2]:
+            xmin = 0.049999999999954525 
+            xmax = 0.5123712482309202 
+            text = "/ˈan.sa/" 
+        intervals [3]:
+            xmin = 0.5123712482309202 
+            xmax = 0.5623712482308747 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "sec" 
+        xmin = 0 
+        xmax = 0.5623712482308747 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5623712482308747 
+            text = "c43" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "tipo" 
+        xmin = 0 
+        xmax = 0.5623712482308747 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5623712482308747 
+            text = "nas" 
